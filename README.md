@@ -8,6 +8,7 @@ My Profile contains a wide variety of projects from portfolio pieces to course a
 <h2 align="center">Tech Stack</h2>
 <br>
 <div align="center">
+<img src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/-HTML-ff6600?style=for-the-badge&logo=html5&logoColor=ff6600&labelColor=282828">
 <img src="https://img.shields.io/badge/-CSS-264ee4?style=for-the-badge&logo=css3&logoColor=264ee4&labelColor=282828">
 <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=282828">
