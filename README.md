@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Jacob and I'm a Computer Science student with a passion for Web Development!
+### My name is Jacob and I'm a Computer Science student with experience in a broad range of technical skills!
 #### I am currently attending Western Governors University.
 
 My Profile contains a wide variety of projects from portfolio pieces to course and passion projects.
